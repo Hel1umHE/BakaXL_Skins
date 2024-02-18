@@ -7,7 +7,7 @@
 
 如果对应路径没有 Tema 文件夹，则需要点击 `本体设置-个性化-浏览已安装的BakaXL主题-打开BakaXL主题文件夹` 以创建 Tema 文件夹。
 之后重复上述步骤即可  
-看不懂？有图片版:`https://docs.qq.com/doc/p/a3b701c1e4fc21568b540e70511ed33e791f1167`
+看不懂？有图片版:https://docs.qq.com/doc/p/a3b701c1e4fc21568b540e70511ed33e791f1167
 
 ## 使用素材及版权相关
 
