@@ -1,4 +1,5 @@
-由Hel1umHE（普通的小何）制作的BakaXL主题会放到这里
+由Hel1umHE（普通的小何）制作的BakaXL3.0主题会放到这里，建议使用最新parrot insider版（本体设置-预览体验计划）以获得最佳体验  
+BakaXL4.0主题会另外创建repo，届时会在此处放上链接
 
 ## 导入方法
 
